@@ -1,6 +1,8 @@
 # GLMMs_MCML
 Fitting Generalized Linear Mixed Models (GLMMs) using (Monte Carlo Maximum Likelihood) MCML Use glmm With (In) R Software
 
+https://www.youtube.com/watch?v=lyGxdDha_eI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
